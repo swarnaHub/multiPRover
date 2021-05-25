@@ -79,3 +79,14 @@ Ablation models from the paper can be run by uncommenting parts of the code (lik
   year={2021}
 }
 ```
+
+### Related Citation
+multiPRover builds on top of our previous work, [PRover](https://arxiv.org/abs/2010.02830). Feel free to check it out and cite, if you find the paper or the code helpful.
+```
+@inproceedings{saha2020prover,
+  title={{PR}over: Proof Generation for Interpretable Reasoning over Rules},
+  author={Saha, Swarnadeep and Ghosh, Sayan and Srivastava, Shashank and Bansal, Mohit},
+  booktitle={EMNLP},
+  year={2020}
+}
+```
