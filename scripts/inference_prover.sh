@@ -1,0 +1,1 @@
+python ilp_infer/inference_prover.py --data_dir ./data/depth-5 --node_preds ./output/prover_all/prediction_nodes_dev.lst --edge_logits ./output/prover_all/prediction_edge_logits_dev.lst --edge_preds ./output/prover_all/prediction_edges_dev.lst

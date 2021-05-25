@@ -1,0 +1,1 @@
+python ilp_infer/inference_mprover.py --data_dir ./data/depth-5 --node_preds ./output/d5_iterative_mprover/prediction_nodes_dev.lst --edge_logits ./output/d5_iterative_mprover/prediction_edge_logits_dev.lst --edge_preds ./output/d5_iterative_mprover/prediction_edges_dev.lst
