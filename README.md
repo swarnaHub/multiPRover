@@ -1,7 +1,7 @@
 # multiPRover
 PyTorch code for our NAACL 2021 paper:
 
-[multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning](https://www.aclweb.org/anthology/2021.naacl-main.287.pdf)
+[multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning](https://arxiv.org/abs/2106.01354)
 
 [Swarnadeep Saha](https://swarnahub.github.io/), [Prateek Yadav](https://prateek-yadav.github.io/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
